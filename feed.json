@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "AR.lit",
+    "description": "",
+    "home_page_url": "https://sarthihan.github.io/ar.lit",
+    "feed_url": "https://sarthihan.github.io/ar.lit/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "arpro89"
+    },
+    "items": [
+    ]
+}

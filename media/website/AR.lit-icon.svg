@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" viewBox="0 0 512 512">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.028" y1="0.037" x2="0.958" y2="0.967" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="red"/>
+      <stop offset="1" stop-color="#aa0aff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.057" y1="0.029" x2="0.922" y2="0.984" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#132be3"/>
+      <stop offset="1" stop-color="#0bdaff"/>
+    </linearGradient>
+    <filter id="Rectangle_2" x="0" y="82" width="479" height="449" filterUnits="userSpaceOnUse">
+      <feOffset dx="10" dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.533"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="AR" x="56" y="82" width="366.5" height="332.5" filterUnits="userSpaceOnUse">
+      <feOffset dx="10" dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="LIT" x="192" y="374" width="147.5" height="133.5" filterUnits="userSpaceOnUse">
+      <feOffset dx="10" dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-Custom_Size_1">
+      <rect width="512" height="512"/>
+    </clipPath>
+  </defs>
+  <g id="Custom_Size_1" data-name="Custom Size – 1" clip-path="url(#clip-Custom_Size_1)">
+    <g id="Rectangle_1" data-name="Rectangle 1" stroke="#707070" stroke-width="1" fill="url(#linear-gradient)">
+      <rect width="512" height="512" rx="58" stroke="none"/>
+      <rect x="0.5" y="0.5" width="511" height="511" rx="57.5" fill="none"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_2)">
+      <g id="Rectangle_2-2" data-name="Rectangle 2" transform="translate(0 82)" stroke="rgba(188,188,188,0.27)" stroke-linejoin="round" stroke-width="1" fill="url(#linear-gradient-2)">
+        <path d="M57,0H403a57,57,0,0,1,57,57V430a0,0,0,0,1,0,0H57A57,57,0,0,1,0,373V57A57,57,0,0,1,57,0Z" stroke="none"/>
+        <path d="M57,.5H403A56.5,56.5,0,0,1,459.5,57V429a.5.5,0,0,1-.5.5H57A56.5,56.5,0,0,1,.5,373V57A56.5,56.5,0,0,1,57,.5Z" fill="none"/>
+      </g>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#AR)">
+      <text id="AR-2" data-name="AR" transform="translate(58 340)" fill="rgba(255,0,88,0.92)" font-size="267" font-family="HelveticaNeue-Light, Helvetica Neue" font-weight="300"><tspan x="0" y="0">AR</tspan></text>
+    </g>
+    <line id="Line_1" data-name="Line 1" x2="312" y2="2" transform="translate(74.5 371.5)" fill="none" stroke="#c208b8" stroke-width="10"/>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#LIT)">
+      <text id="LIT-2" data-name="LIT" transform="translate(192 469)" fill="#af0af3" font-size="98" font-family="HelveticaNeue-Light, Helvetica Neue" font-weight="300"><tspan x="0" y="0">LIT</tspan></text>
+    </g>
+  </g>
+</svg>

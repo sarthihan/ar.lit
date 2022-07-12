@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="600" height="600" viewBox="0 0 600 600">
+  <defs>
+    <path id="path-1" fill-rule="evenodd" d="M50 15h500c16.55745073 0 30 13.44254927 30 30v510c0 16.55745073-13.44254927 30-30 30H50c-16.55745073 0-30-13.44254927-30-30V45c0-16.55745073 13.44254927-30 30-30z"/>
+    <filter id="filter-2" width="200%" height="200%" x="-50%" y="-50%" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feOffset dx="5" dy="5" in="SourceAlpha" result="shadow-1-feOffset-shadow"/>
+      <feGaussianBlur in="shadow-1-feOffset-shadow" result="shadow-1-feGaussianBlur-shadow" stdDeviation="3.012"/>
+      <feColorMatrix in="shadow-1-feGaussianBlur-shadow" result="shadow-1-feColorMatrix-shadow" type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 0.5 0"/>
+    </filter>
+    <linearGradient id="linearGradient-3" x1="25.6" x2="580" y1="15" y2="585" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="rgb(255,0,2)"/>
+      <stop offset="1" stop-color="rgb(165,0,255)"/>
+    </linearGradient>
+    <filter id="filter-4" width="200%" height="200%" x="-50%" y="-50%" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feGaussianBlur in="SourceAlpha" result="innershadow-1-feGaussianBlur-innershadow" stdDeviation="0"/>
+      <feOffset dx="0" dy="0" in="innershadow-1-feGaussianBlur-innershadow" result="innershadow-1-feOffset-innershadow"/>
+      <feComposite in="innershadow-1-feOffset-innershadow" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="innershadow-1-feOffset-innershadow"/>
+      <feColorMatrix in="innershadow-1-feOffset-innershadow" result="innershadow-1-feColorMatrix-innershadow" type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 0.5 0"/>
+    </filter>
+    <path id="path-5" fill-rule="evenodd" d="M50 15h500c16.55745073 0 30 13.44254927 30 30v215c0 16.55745073-13.44254927 30-30 30H50c-16.55745073 0-30-13.44254927-30-30V45c0-16.55745073 13.44254927-30 30-30z"/>
+    <filter id="filter-6" width="200%" height="200%" x="-50%" y="-50%" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feOffset dx="5" dy="5" in="SourceAlpha" result="shadow-1-feOffset-shadow"/>
+      <feGaussianBlur in="shadow-1-feOffset-shadow" result="shadow-1-feGaussianBlur-shadow" stdDeviation="3.012"/>
+      <feColorMatrix in="shadow-1-feGaussianBlur-shadow" result="shadow-1-feColorMatrix-shadow" type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 0.5 0"/>
+    </filter>
+    <linearGradient id="linearGradient-7" x1="25.6" x2="580" y1="15" y2="290" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="rgb(192,0,179)"/>
+      <stop offset="1" stop-color="rgb(227,139,22)"/>
+    </linearGradient>
+    <filter id="filter-8" width="200%" height="200%" x="-50%" y="-50%" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feGaussianBlur in="SourceAlpha" result="innershadow-1-feGaussianBlur-innershadow" stdDeviation="0"/>
+      <feOffset dx="0" dy="0" in="innershadow-1-feGaussianBlur-innershadow" result="innershadow-1-feOffset-innershadow"/>
+      <feComposite in="innershadow-1-feOffset-innershadow" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="innershadow-1-feOffset-innershadow"/>
+      <feColorMatrix in="innershadow-1-feOffset-innershadow" result="innershadow-1-feColorMatrix-innershadow" type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 0.5 0"/>
+    </filter>
+    <linearGradient id="linearGradient-10" x1="559.3" x2="248.8" y1="339.59" y2="569.82" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="rgb(208,64,64)"/>
+      <stop offset="1" stop-color="rgb(198,0,163)"/>
+    </linearGradient>
+    <path id="path-11" fill-rule="evenodd" d="M50 332h363c16.55745073 0 30 13.44254927 30 30v193c0 16.55745073-13.44254927 30-30 30H50c-16.55745073 0-30-13.44254927-30-30V362c0-16.55745073 13.44254927-30 30-30z"/>
+    <filter id="filter-12" width="200%" height="200%" x="-50%" y="-50%" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feOffset dx="5" dy="5" in="SourceAlpha" result="shadow-1-feOffset-shadow"/>
+      <feGaussianBlur in="shadow-1-feOffset-shadow" result="shadow-1-feGaussianBlur-shadow" stdDeviation="2.41"/>
+      <feColorMatrix in="shadow-1-feGaussianBlur-shadow" result="shadow-1-feColorMatrix-shadow" type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 0.5 0"/>
+    </filter>
+    <linearGradient id="linearGradient-13" x1="417.62" x2="36.92" y1="339.59" y2="569.82" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="rgb(208,0,133)"/>
+      <stop offset="1" stop-color="rgb(240,235,110)"/>
+    </linearGradient>
+    <filter id="filter-15" width="200%" height="200%" x="-50%" y="-50%" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feOffset dx="5" dy="5" in="SourceAlpha" result="shadow-1-feOffset-shadow"/>
+      <feGaussianBlur in="shadow-1-feOffset-shadow" result="shadow-1-feGaussianBlur-shadow" stdDeviation="2.41"/>
+      <feColorMatrix in="shadow-1-feGaussianBlur-shadow" result="shadow-1-feColorMatrix-shadow" type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 0.5 0"/>
+    </filter>
+    <clipPath id="clipPath-16">
+      <text font-size="0" style="white-space:pre" fill="rgb(0,0,0)">
+        <tspan x="169" y="238" font-family="AppleGothic" font-size="192" font-weight="300" style="white-space:pre;text-transform:none">AR</tspan>
+      </text>
+    </clipPath>
+    <linearGradient id="linearGradient-18" x1="229.49" x2="424.11" y1="104.28" y2="244.08" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="rgb(12,164,185)"/>
+      <stop offset="1" stop-color="rgb(42,62,240)"/>
+    </linearGradient>
+    <filter id="filter-20" width="200%" height="200%" x="-50%" y="-50%" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feOffset dx="5" dy="5" in="SourceAlpha" result="shadow-1-feOffset-shadow"/>
+      <feGaussianBlur in="shadow-1-feOffset-shadow" result="shadow-1-feGaussianBlur-shadow" stdDeviation="2.41"/>
+      <feColorMatrix in="shadow-1-feGaussianBlur-shadow" result="shadow-1-feColorMatrix-shadow" type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 0.5 0"/>
+    </filter>
+    <clipPath id="clipPath-21">
+      <text font-size="0" style="white-space:pre" fill="rgb(0,0,0)">
+        <tspan x="158.439" y="498" font-family="AppleGothic" font-size="114" font-weight="300" style="white-space:pre;text-transform:none">.LIT</tspan>
+      </text>
+    </clipPath>
+    <linearGradient id="linearGradient-23" x1="198.21" x2="366.19" y1="416.16" y2="491.76" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="rgb(12,164,185)"/>
+      <stop offset="1" stop-color="rgb(82,240,42)"/>
+    </linearGradient>
+  </defs>
+  <g>
+    <use fill="black" stroke="black" stroke-opacity="0" stroke-width="0" filter="url(#filter-2)" xlink:href="#path-1"/>
+    <use fill="url(#linearGradient-3)" xlink:href="#path-1"/>
+    <use fill="black" filter="url(#filter-4)" xlink:href="#path-1"/>
+  </g>
+  <g>
+    <use fill="black" stroke="black" stroke-opacity="0" stroke-width="0" filter="url(#filter-6)" xlink:href="#path-5"/>
+    <use fill="url(#linearGradient-7)" xlink:href="#path-5"/>
+    <use fill="black" filter="url(#filter-8)" xlink:href="#path-5"/>
+  </g>
+  <path fill="url(#linearGradient-10)" fill-rule="evenodd" d="M265 332h285c16.55745073 0 30 13.44254927 30 30v193c0 16.55745073-13.44254927 30-30 30H265c-16.55745073 0-30-13.44254927-30-30V362c0-16.55745073 13.44254927-30 30-30z"/>
+  <g>
+    <use fill="black" stroke="black" stroke-opacity="0" stroke-width="0" filter="url(#filter-12)" xlink:href="#path-11"/>
+    <use fill="url(#linearGradient-13)" xlink:href="#path-11"/>
+  </g>
+  <g>
+    <text fill="inherit" stroke="black" stroke-opacity="0" stroke-width="0" filter="url(#filter-15)" font-size="0" style="white-space:pre">
+      <tspan x="169" y="238" font-family="AppleGothic" font-size="192" font-weight="300" style="white-space:pre;text-transform:none">AR</tspan>
+    </text>
+    <rect width="263" height="233" x="169" y="67" fill="url(#linearGradient-18)" clip-path="url(#clipPath-16)"/>
+  </g>
+  <g>
+    <text fill="inherit" stroke="black" stroke-opacity="0" stroke-width="0" filter="url(#filter-20)" font-size="0" style="white-space:pre">
+      <tspan x="158.439" y="498" font-family="AppleGothic" font-size="114" font-weight="300" style="white-space:pre;text-transform:none">.LIT</tspan>
+    </text>
+    <rect width="227" height="126" x="146" y="396" fill="url(#linearGradient-23)" clip-path="url(#clipPath-21)"/>
+  </g>
+</svg>
